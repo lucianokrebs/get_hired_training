@@ -167,7 +167,7 @@
   
 ## Aula 8
   - Dúvidas, considerações, bate papo aberto e próximos passos
-  - Desafio! 🥋🥋🥋🥋
+  - Desafio! 🥋
     - Projeto completo:
       - Ideias
       - Tech stack | TO DOs:
