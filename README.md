@@ -165,7 +165,7 @@
   - Código simples
   - Tempo de experiência
   
-## Aula 8 😢
+## Aula 8
   - Dúvidas, considerações, bate papo aberto e próximos passos
   - Desafio! 🥋🥋🥋🥋
     - Projeto completo:
